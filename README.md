@@ -13,6 +13,6 @@ This is how the web app works:
 
 Tip: choose rain for a hidden Easter Egg ;-)
 
-This site is hosted [here using GitHub Pages](https://ladansm.github.io/codefirstteam5/)
+This site is hosted [here using GitHub Pages](https://github.com/yusuf3a50/weatherApp)
 
-If the app does not work for any reason, please open an Issue in this repo's issue tracker
+This is a fork of a team project I was involved with as part of an introductory Web Developer course with Code First Girls.
