@@ -1,4 +1,4 @@
-# codefirstteam5
+# weatherApp
 This is how the web app works:
 
 1. Webform takes input of temperature, weather type and location
@@ -13,6 +13,6 @@ This is how the web app works:
 
 Tip: choose rain for a hidden Easter Egg ;-)
 
-This site is hosted [here using GitHub Pages](https://github.com/yusuf3a50/weatherApp)
+This site is hosted [here using GitHub Pages](https://yusuf3a50.github.io/weatherApp/)
 
 This is a fork of a team project I was involved with as part of an introductory Web Developer course with Code First Girls.
